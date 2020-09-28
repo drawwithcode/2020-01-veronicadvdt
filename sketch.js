@@ -3,8 +3,9 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(windowWidth,windowHeight)
-  // put setup code here
+  createCanvas(800,600);
+  background("blue");
+
 }
 
 function draw() {
