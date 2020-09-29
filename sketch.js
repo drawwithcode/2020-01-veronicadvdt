@@ -11,15 +11,6 @@ function setup() {
 
 function draw() {
 
-  push()
-  textSize(30);
-  fill("white");
-  noStroke();
-  textAlign(CENTER);
-  translate(0,10);
-  text('POLLY', width/2,height/2);
-  translate(100,0);
-
   pop()
 
   push();
